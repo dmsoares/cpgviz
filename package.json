@@ -1,0 +1,16 @@
+{
+  "name": "cpgviz",
+  "version": "1.0.0",
+  "description": "This is a GitHub template project to set up a [React](https://react.dev/) app with TypeScript running on [Deno](https://deno.com). It uses [Vite](https://vite.dev) as the dev server and an [oak](https://jsr.io/@oak/oak) http server on the backend to serve the built project.",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/d3": "^7.4.3",
+    "@types/d3-graphviz": "^2.6.10",
+    "@types/react": "^18.3.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
